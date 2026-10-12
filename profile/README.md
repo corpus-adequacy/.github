@@ -8,6 +8,7 @@ reproduce a published conformance corpus's declared observations?
 - [Rendered documentation and measurements](https://corpus-adequacy.github.io/corpus-adequacy/)
 - [Corpus intake](https://github.com/corpus-adequacy/corpus-adequacy/issues/new?template=add-corpus.yml)
 - [Usage questions](https://github.com/corpus-adequacy/corpus-adequacy/discussions)
+- [Code of Conduct](https://github.com/corpus-adequacy/corpus-adequacy/blob/main/CODE_OF_CONDUCT.md)
 - [Private vulnerability reporting](https://github.com/corpus-adequacy/corpus-adequacy/security/advisories/new)
 
 The tool keeps observations, rule inventory, exclusions, and evidence identity
